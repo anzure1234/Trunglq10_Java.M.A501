@@ -1,0 +1,3 @@
+Customer{name='tom', phoneNumber='0345683245', address='erer', listOfOrder=[Order{number='00003', date='2022-02-02'}]}
+Customer{name='trung', phoneNumber='0363872182', address='bach dang', listOfOrder=[Order{number='00001', date='2022-02-02'}]}
+Customer{name='trung1', phoneNumber='0567435698', address='bach dang123', listOfOrder=[Order{number='00003', date='2022-02-03'}]}

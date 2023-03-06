@@ -1,0 +1,1 @@
+Customer{name='sfasdf', phoneNumber='0345678912', address='adfasdf', listOfOrder=[Order{number='00001', date='2022'}]}
